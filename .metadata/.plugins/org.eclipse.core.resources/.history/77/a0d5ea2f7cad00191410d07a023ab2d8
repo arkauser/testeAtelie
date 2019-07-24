@@ -1,0 +1,13 @@
+package com.br.testeAt.at.model;
+
+import org.hibernate.annotations.Entity;
+import org.springframework.data.annotation.Id;
+
+@Entity
+public class Git {
+	
+	@Id
+	private int id;
+	
+	private String projectName;
+}

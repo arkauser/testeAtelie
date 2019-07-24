@@ -1,0 +1,24 @@
+package com.br.testeAt.at;
+
+import java.io.IOException;
+
+import org.eclipse.egit.github.core.Repository;
+import org.eclipse.egit.github.core.client.GitHubClient;
+import org.eclipse.egit.github.core.service.RepositoryService;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class GitController {
+	
+	@GetMapping("/git")
+	public String search() throws IOException {
+		GitHubClient client = new GitHubClient();
+		client.setCredentials("arkauser", "tricolor123*");
+		System.out.println(client.getRequestLimit());
+		RepositoryService service = new RepositoryService();
+		for (Repository repo : service.getRepositories("defunkt"))
+		  System.out.println(repo.getName() + " Watchers: " + repo.getWatchers());
+		return "AAA";
+	}
+}

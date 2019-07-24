@@ -1,0 +1,8 @@
+package com.br.testeAt.at.model;
+
+public class Git {
+	
+	private int id;
+	
+	private String projectName;
+}

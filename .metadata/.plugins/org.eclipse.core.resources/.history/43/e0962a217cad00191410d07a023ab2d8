@@ -1,0 +1,11 @@
+package com.br.testeAt.at.model;
+
+import org.hibernate.annotations.Entity;
+
+@Entity
+public class Git {
+	
+	private int id;
+	
+	private String projectName;
+}

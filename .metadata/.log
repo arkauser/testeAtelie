@@ -1,0 +1,329 @@
+!SESSION 2019-07-12 13:20:14.822 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=11.0.3
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-12 13:21:19.197
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2019-07-12 13:59:17.826
+!MESSAGE Taglib Index ZipException: /home/w/Downloads/at/pom.xml zip END header not found
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:00:01.738
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2019-07-12 14:00:02.113
+!MESSAGE Taglib Index ZipException: /home/w/Downloads/at/pom.xml zip END header not found
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:00:46.547
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:05:16.211
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:05:19.189
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:10:59.981
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:11:01.985
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:11:03.463
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:12:34.406
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:22:19.703
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:22:23.045
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:22:31.182
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:22:58.876
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+!SESSION 2019-07-12 14:23:54.071 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=11.0.3
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-12 14:24:13.319
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:24:38.219
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+!SESSION 2019-07-12 14:32:27.762 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=11.0.3
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -data /home/w/Documentos/workspace-teste -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-12 14:32:40.046
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:33:09.949
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:35:27.048
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:35:40.178
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:35:47.737
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:35:57.762
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:35:58.056
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:38:29.237
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.jdt.core 4 0 2019-07-12 14:39:20.915
+!MESSAGE Invalid ZIP archive: pom.xml [in at]
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-07-12 14:40:15.325
+!MESSAGE Launch configuration GitController references non-existing project at.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration GitController references non-existing project at.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2019-07-12 14:40:15.335
+!MESSAGE Launch configuration GitController references non-existing project at.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-07-12 14:40:15.359
+!MESSAGE Launch configuration GitController references non-existing project at.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration GitController references non-existing project at.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2019-07-12 14:40:15.359
+!MESSAGE Launch configuration GitController references non-existing project at.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-07-12 14:40:15.403
+!MESSAGE Launch configuration GitController references non-existing project at.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration GitController references non-existing project at.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2019-07-12 14:40:15.403
+!MESSAGE Launch configuration GitController references non-existing project at.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-07-12 14:40:15.409
+!MESSAGE Launch configuration AtApplication references non-existing project at.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration AtApplication references non-existing project at.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:352)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2019-07-12 14:40:15.410
+!MESSAGE Launch configuration AtApplication references non-existing project at.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-07-12 14:40:15.421
+!MESSAGE Launch configuration AtApplication references non-existing project at.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration AtApplication references non-existing project at.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:528)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:416)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:353)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2019-07-12 14:40:15.421
+!MESSAGE Launch configuration AtApplication references non-existing project at.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2019-07-12 14:40:15.468
+!MESSAGE Launch configuration AtApplication references non-existing project at.
+!STACK 1
+org.eclipse.core.runtime.CoreException: Launch configuration AtApplication references non-existing project at.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1838)
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1713)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:225)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:209)
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2151)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:381)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:258)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:228)
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:186)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:354)
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:378)
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:825)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:989)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.lambda$0(ProjectRegistryRefreshJob.java:147)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1374)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:82)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.jdt.launching 4 107 2019-07-12 14:40:15.468
+!MESSAGE Launch configuration AtApplication references non-existing project at.
+!SESSION 2019-07-23 14:13:47.771 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=11.0.3
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-23 14:15:04.860
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:04:52.286
+!MESSAGE System property http.proxyHost is set to tmg-osasco.itimpacta.org.br but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:04:52.286
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:04:52.287
+!MESSAGE System property https.proxyHost is set to tmg-osasco.itimpacta.org.br but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:04:52.288
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:07:08.141
+!MESSAGE System property http.proxyHost is set to tmg-osasco.itimpacta.org.br but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:07:08.141
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:07:08.144
+!MESSAGE System property https.proxyHost is set to tmg-osasco.itimpacta.org.br but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:07:08.144
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:07:08.146
+!MESSAGE System property http.proxyHost is set to tmg-osasco.itimpacta.org.br but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:07:08.146
+!MESSAGE System property http.proxyPort is set to 8080 but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:07:08.150
+!MESSAGE System property https.proxyHost is set to tmg-osasco.itimpacta.org.br but should not be set.
+
+!ENTRY org.eclipse.core.net 1 0 2019-07-23 15:07:08.151
+!MESSAGE System property https.proxyPort is set to 8080 but should not be set.
+!SESSION 2019-07-24 14:01:37.735 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=11.0.3
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=pt_BR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-07-24 14:04:36.274
+!MESSAGE Using Apache MINA sshd as ssh client.

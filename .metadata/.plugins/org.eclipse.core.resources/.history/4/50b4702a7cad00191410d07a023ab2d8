@@ -1,0 +1,14 @@
+package com.br.testeAt.at.model;
+
+import javax.persistence.Id;
+
+import org.hibernate.annotations.Entity;
+
+@Entity
+public class Git {
+	
+	@Id
+	private int id;
+	
+	private String projectName;
+}
